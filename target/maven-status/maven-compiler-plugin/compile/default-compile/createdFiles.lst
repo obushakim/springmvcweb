@@ -1,0 +1,7 @@
+obus\test\springmvcweb\dao\ObusDao.class
+obus\test\springmvcweb\config\ServletInitializer.class
+obus\test\springmvcweb\controller\ObusController.class
+obus\test\springmvcweb\model\Obus.class
+obus\test\springmvcweb\service\ObusService.class
+obus\test\springmvcweb\config\HibernateConfig.class
+obus\test\springmvcweb\config\WebMvcConfig.class
